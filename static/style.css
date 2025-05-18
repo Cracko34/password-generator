@@ -126,3 +126,18 @@ button:hover {
 .back-button:hover {
     color: #05461d;
 }
+
+.download-button {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #00ff00;
+    color: black;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.download-button:hover {
+    background-color: #00cc00;
+}
