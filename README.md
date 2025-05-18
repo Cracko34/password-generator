@@ -20,7 +20,7 @@ This is a secure password generator built with Python and Flask, allowing users 
 🧪 How to Run the Project
 
 1.Clone this repository:
-git clone https://github.com/Cracko34/password-generator-flask.git
+git clone https://github.com/Cracko34/password-generator.git
 cd password-generator-flask
 2.Install Flask (if you don’t have it):
 pip install flask
